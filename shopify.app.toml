@@ -3,7 +3,7 @@
 client_id = "d3edcba552e7ee94ed47314fae7c228d"
 name = "bundle-product-app"
 handle = "bundle-product-app-3"
-application_url = "https://ministers-immigrants-snow-standard.trycloudflare.com"
+application_url = "https://raleigh-motorcycles-hardwood-foam.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ministers-immigrants-snow-standard.trycloudflare.com/auth/callback",
-  "https://ministers-immigrants-snow-standard.trycloudflare.com/auth/shopify/callback",
-  "https://ministers-immigrants-snow-standard.trycloudflare.com/api/auth/callback"
+  "https://raleigh-motorcycles-hardwood-foam.trycloudflare.com/auth/callback",
+  "https://raleigh-motorcycles-hardwood-foam.trycloudflare.com/auth/shopify/callback",
+  "https://raleigh-motorcycles-hardwood-foam.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
